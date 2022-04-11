@@ -13,7 +13,9 @@ export default function Home() {
       <main>
         <Header title="Welcome to Gods Helping Hands" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          4 Sisters Private Care Givers <code></code>
+          24 Houre Services
+          Contact Estella for more information at (831)-531-2323
         </p>
       </main>
 
