@@ -17,10 +17,10 @@ export default function Home() {
           24 Houre Services 
           <br>
           Contact Estella for more information at (832)-531-2323
-         <br>
+          <br>
           Offering pravite care in the Houston Area are prices range from $25 per hour to $30 per hour
           <br>
-           Our Sister's specalize in giving care to your loved one's with the upmost attenction and care. 
+          Our Sister's specalize in giving care to your loved one's with the upmost attenction and care. 
           <br>;
           Please contact us to book a time with one of our Sister's.
         </p>
